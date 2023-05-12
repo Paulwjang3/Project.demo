@@ -13,7 +13,7 @@ Champs.init({
     videoUrl: {
         type: DataTypes.STRING,
         allowNull: true
-    }
+    },
 
     userId: {
         type: DataTypes.INTEGER,
